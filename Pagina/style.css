@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    border:0px;
+    padding: 0px;
+}
+
+header{
+background-color: #0477B9;
+
+width: 100%;
+height: 100%;
+padding-top: 10px;
+padding-bottom: 10px;
+font-family: 'Roboto', sans-serif;
+}
